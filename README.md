@@ -20,8 +20,8 @@ Instructions
 * Clone this
 * Add your own repository as a remote
 * add a localconfig directory, containing
-** config.php for overrides
-** postmark.php for postmark config parameters
-** database.php for database overrides
+ * config.php for overrides
+ * postmark.php for postmark config parameters
+ * database.php for database overrides
 * Set up a database containing the contents of schema.sql
 * Get to work.
