@@ -1,0 +1,11 @@
+
+RewriteEngine On
+RewriteBase /
+RewriteRule static.* - [L]
+RewriteRule assets.* - [L]
+RewriteRule ^index.php(.*)$ - [L]
+
+RewriteRule ^(.*)$ /index.php?/$1 [L]
+    
+
+php_value html_errors on

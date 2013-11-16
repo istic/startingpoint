@@ -1,0 +1,1 @@
+Hello World. This is the default page for <?PHP echo APPNAME ?>
