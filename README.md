@@ -18,6 +18,7 @@ Included Functionality
 Instructions
 
 * Clone this
+* execute `git submodule init` and `git submodule update` to download Codeigniter and some other things.
 * Add your own repository as a remote
 * add a localconfig directory, containing
  * config.php for overrides
